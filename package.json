@@ -51,14 +51,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rajesh6381/jesh-rn-package.git"
+    "url": "https://github.com/Rajesh6381/jeshRNPackage"
   },
   "author": "rajesh <rajesh638191@gmail.com> (https://github.com/Rajesh6381)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rajesh6381/jesh-rn-package/issues"
+    "url": "https://github.com/Rajesh6381/jeshRNPackage/issues"
   },
-  "homepage": "https://github.com/Rajesh6381/jesh-rn-package#readme",
+  "homepage": "https://github.com/Rajesh6381/jeshRNPackage#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
